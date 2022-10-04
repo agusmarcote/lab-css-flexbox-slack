@@ -8,3 +8,207 @@ paragraph yellow: #ECB12F
 links blue: #2E71A6
 footer links grey: #454245
 */
+
+
+/*
+#nav-bar{
+    background-color: #540B51;
+    width: 300px
+
+}
+
+
+.menu-container {
+    float: left;
+}
+
+.flex-upbar {
+    float: right;
+
+}
+
+.menu-container, .flex-upbar {
+    background-color: #540B51;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.Header {
+    background-color: #540B51;
+    clear: both;
+}
+
+h1{
+    font-size: 3em;
+    color: white;
+    text-align: center;
+}
+
+.slack{
+    color: white;
+    text-align: center;
+}
+
+
+
+.button {
+  display: block;
+  width: 98%;;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+  height: 50px;
+}
+
+#buttonsu{
+    color: black;
+    text-transform: uppercase;
+}
+
+#trustedcompanies {
+    font-size: 3em;
+    align-self: center;
+    display: flex;
+
+}
+
+.flex-companies {
+    background-color: #F3EAE2;
+    display: flex;
+    flex-flow: wrap;
+}
+*/
+
+
+/*
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 16px;
+}
+
+.nav-bar{
+    display: flex;
+}
+*/
+
+*{
+    margin: 0;
+ }
+
+
+ .slacklogo{
+    width: 90px;
+ }
+
+ .hiddenlist {
+    display: none;
+ }
+
+ .nav-bar{
+display: flex;
+justify-content: space-between;
+background-color:#540B51;
+ }
+
+ .navbutton{
+    border:none;
+    background-color: transparent;
+ }
+
+ h1{
+    display: flex;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 20px;
+    padding-left: 20px;
+ }
+
+ .slack{
+    text-align: center;
+ }
+
+ .buttonbold {
+    font-weight: bold;
+    height: 60px;
+    width: 300px;
+    border-radius: 5px; 
+    background-color: #fff;    
+    border: none;
+ }
+
+ .buttong{
+    height: 60px;
+    width: 300px;
+    border-radius: 5px; 
+    background-color: #4285F4;
+    border: none;
+    margin-top: 10px;
+
+ }
+
+ .span{
+    background-color:#4285F4 ;
+    color: white;
+    position: relative;
+    bottom: 8px;
+    right: 13px;
+ }
+ 
+ .google-logo{
+    width: 25px;
+    border-radius: px;
+    position: relative;
+    right: 63px;
+    background-color: white;
+ }
+
+ .buttons{
+    display: flex;
+    flex-flow: column;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 40px;
+    padding-top: 20px;
+ }
+
+ .slackapp{
+    width: 900px;
+ }
+
+ .connected{
+    width: 500px;
+ }
+
+ .spotify, .airbnb, .uber {
+    width: 100px;
+ }
+ .nytimes{
+    width: 200px;
+ }
+ .nasa{
+    width: 50px;
+ }
+ .nytimes{
+    width: 200px;
+ }
+ .target{
+    width: 50px;
+ }
+
+ .flex-companies{
+    font-size: 30px;
+    background-color: #F3EAE2;
+ }
+ main{
+    background-color: #F3EAE2 ;
+ }
+
+ .Header{
+    background-color:#540B51;
+ }
